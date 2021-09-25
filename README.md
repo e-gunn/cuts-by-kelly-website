@@ -16,6 +16,6 @@ Professional website for Master Stylist.
 * JavaScript
 
 ## Acknowledgements
-Template: [HTML5 Boilerplate](https://html5boilerplate.com/)
-Hero Image: [MV Vacation](https://unsplash.com/@mvvacation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Template: [HTML5 Boilerplate](https://html5boilerplate.com/)<br>
+Hero Image: [MV Vacation](https://unsplash.com/@mvvacation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br>
 Contact Image: [Conner Moyle](https://unsplash.com/@cmdigitalphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
